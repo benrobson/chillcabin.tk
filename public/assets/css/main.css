@@ -1,0 +1,27 @@
+html {
+  font-family: 'Source Sans Pro', sans-serif;
+  background: #2ACF84;
+}
+
+a {
+  color: gray;
+}
+
+#particle-div {
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.middlediv {
+  background-color: white;
+  padding: 30px;
+
+  margin: 0 auto;
+  width: 300px;
+  text-align: center;
+}
+
+.socialicons a {
+  font-size: 30pt;
+  padding: 10px;
+}
